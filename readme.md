@@ -12,7 +12,7 @@ A short description of your project, what it does, and why it is useful.
 - ✅ Feature 3
 - ✅ Easy to use
 - ✅ Fast and reliable
-- ✅ Cross-platform support
+- ✅ Cross-platform 
 
 ---
 
